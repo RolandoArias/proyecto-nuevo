@@ -1,8 +1,4 @@
-# TurismoShow
+# Proyecto en Blanco con Laravel 4 y Autentificacion de usuario con sentry con 3 niveles de autentificacion
 
-Iniciando proyecot
-
-[See demo here](http://turismoshow.skywebplus.net/) or install locally with instructions below.
-
-## Descripcion del Proyecto
-6. Visit [localhost:8000](http://localhost:8000) in your browser
+## Laravel 4
+## Sentry 2.0
