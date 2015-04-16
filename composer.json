@@ -2,7 +2,9 @@
 	"require": {
 		"laravel/framework": "4.2.*",
 		"cartalyst/sentry": "2.1.*",
-		"laracasts/validation": "~1.0"
+		"laracasts/validation": "~1.0",
+		"roumen/sitemap": "2.4.15"
+		
 	},
 	"require-dev": {
 		"way/generators": "2.*"
